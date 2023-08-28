@@ -9,3 +9,4 @@ This project purpose to implement an smart security system using ID card and pin
 5. Jumper wire male female (conditional)
 6. Power supply or battery 2x18650 for arduino
 7. RFID card/tag or ID Card
+8. Buzzer
